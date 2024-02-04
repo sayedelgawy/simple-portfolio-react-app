@@ -1,0 +1,25 @@
+.labelStyle{
+position: relative;
+z-index: 99;
+top: 1.125rem;
+color: #1abc9c;
+padding-left: .625rem;
+transition: top .5s;
+}
+.userInput{
+    position: relative;
+    z-index: 999;
+    border: none;
+    border-bottom: 1px solid #dee2e6;
+    padding-block: 1rem;
+}
+.userInput:focus{
+    box-shadow: none;
+    border-bottom: 1px solid #dee2e6;
+}
+.buttonStyle{
+background-color: #1abc9c;
+}
+.buttonStyle:hover{
+    background-color: #1abc9c !important;
+}

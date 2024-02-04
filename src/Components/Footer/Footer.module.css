@@ -1,0 +1,16 @@
+.footerInfoBg{
+    background-color: #2C3E50;
+}
+
+.footerCopyrightBg{
+    background-color: #1A252F;
+}
+.headerFontSize{
+    font-size: 1.75rem;
+}
+.icon{
+    color: white;
+    border-radius: 50%;
+    border: 1px solid white;
+    padding:0.625rem;
+}

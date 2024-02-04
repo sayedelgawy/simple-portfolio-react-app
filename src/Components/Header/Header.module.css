@@ -1,0 +1,10 @@
+.bgSecondrayColor{
+    background-color: #2C3E50;
+}
+.smoothScroll{
+    transition: padding .5s;
+}
+
+.footerInfobg{
+    background-color: #2C3E50;
+}
